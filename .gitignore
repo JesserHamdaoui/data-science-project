@@ -1,0 +1,14 @@
+.claude/pr/
+.claude/issue/
+.temp/
+.env
+.env.*
+*.key
+*.pem
+*.tfstate
+*.tfvars
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+gitleaks-report.json
